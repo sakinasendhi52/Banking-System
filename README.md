@@ -67,8 +67,8 @@
 
 <h3>Exit Case Output : </h3>
 
-![Exit Case Output](https://github.com/sakinasendhi52/railway-reservation-system/blob/main/ExitCase.png?raw=true)
+![Exit Case Output](https://github.com/sakinasendhi52/Banking-System/blob/main/ExitCase.png?raw=true)
 
 <h3>Invalid Choice Output : </h3>
 
-![Invalid Choice Output](https://github.com/sakinasendhi52/railway-reservation-system/blob/main/DefaultCase.png?raw=true)
+![Invalid Choice Output](https://github.com/sakinasendhi52/Banking-System/blob/main/DefaultCase.png?raw=true)
